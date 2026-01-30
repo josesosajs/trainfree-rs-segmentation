@@ -1,1 +1,1 @@
-# training-free-text-rs-segmentation
+# Enabling Training-Free Text-Based Remote Sensing Segmentation
