@@ -1,2 +1,9 @@
 # Enabling Training-Free Text-Based Remote Sensing Segmentation
-Jose Sosa, Danila Rukhovich, Anis Kacem, Djamila Aouada
+[Jose Sosa](https://www.linkedin.com/in/josesosamartinez), Danila Rukhovich, Anis Kacem, Djamila Aouada
+
+
+## Updates
+- **Feb xxth, 2025:** Pre-print [arXiv]().
+
+## Overview
+Recent advances in Vision Language Models (VLMs) and Vision Foundation Models (VFMs) have opened new opportunities for zero-shot text-guided segmentation of remote sensing imagery. However, most existing approaches still rely on additional trainable components, limiting their generalisation and practical applicability. In this work, we investigate to what extent text-based remote sensing segmentation can be achieved without additional training, by relying solely on existing foundation models. We propose a simple yet effective approach that integrates contrastive and generative VLMs with the Segment Anything Model (SAM), enabling a fully training-free or lightweight LoRA-tuned pipeline. Our contrastive approach employs CLIP as mask selector for SAM’s grid-based proposals, achieving state-of-the-art open-vocabulary semantic segmentation (OVSS) in a completely zero-shot setting. In parallel, our generative approach enables reasoning and referring segmentation by generating click prompts for SAM using GPT-5 in a zero-shot setting and a LoRA-tuned Qwen-VL model, with the latter yielding the best results. Extensive experiments across 19 remote sensing benchmarks, including open-vocabulary, referring, and reasoning-based tasks, demonstrate the strong capabilities of our approach.
