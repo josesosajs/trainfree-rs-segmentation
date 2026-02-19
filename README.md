@@ -1,6 +1,4 @@
 # Enabling Training-Free Text-Based Remote Sensing Segmentation
-[Jose Sosa](https://www.linkedin.com/in/josesosamartinez), Danila Rukhovich, Anis Kacem, Djamila Aouada
-
 
 ## Updates
 - **Feb xxth, 2025:** Pre-print [arXiv]().
