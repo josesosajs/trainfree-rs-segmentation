@@ -9,8 +9,8 @@
 <div>
     <a href='https://scholar.google.com/citations?user=R6rtktIAAAAJ&hl=en' target='_blank'>Jose Sosa</a>&emsp;
     <a href='https://scholar.google.com/citations?user=Osx2uh5eA2kC&hl=en' target='_blank'>Danila Rukhovich</a>&emsp;
-    <a href='' target='_blank'>Anis Kacem</a>&emsp;
-    <a href='' target='_blank'>Djamila Aouada</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=K3EWusMAAAAJ&hl=en' target='_blank'>Anis Kacem</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=WBmJVSkAAAAJ&hl=en' target='_blank'>Djamila Aouada</a>&emsp;
 </div>
 <div>
     The Interdisciplinary Centre for Security, Reliability and Trust (SnT), Univerity of Luxembourg&emsp;
