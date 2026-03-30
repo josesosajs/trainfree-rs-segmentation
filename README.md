@@ -2,6 +2,8 @@
 
 <h1>🗺️ Enabling Training-Free Text-Based Remote Sensing Segmentation</h1>
 
+<h3>🌎 EARTHVISION @ CVPR 2026 🌎</h3>
+
 <div>
     <strong>Training-free OVSS and LoRA-tuned referring and reasoning segmentation</strong>
 </div>
