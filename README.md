@@ -2,7 +2,9 @@
 
 <h1>🗺️ Enabling Training-Free Text-Based Remote Sensing Segmentation</h1>
 
-<h3>🌎 EARTHVISION @ CVPR 2026 🌎</h3>
+<h3> <a href="https://www.grss-ieee.org/events/earthvision-2026/" target="_blank">EARTHVISION @ CVPR 2026</a> 
+    and <a href="https://cvprinparis.github.io/CVPR2026InParis/" target="_blank">CVPR@Paris</a> 
+</h3>
 
 <div>
     <strong>Training-free OVSS and LoRA-tuned referring and reasoning segmentation</strong>
